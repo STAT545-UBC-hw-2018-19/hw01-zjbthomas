@@ -10,7 +10,7 @@ This repo contains a [README](README.md) file and a [R Markdown](hw01_instructio
 
 My name is **Junbin ZHANG**, an MASc student from the Department of Electrical and Computer Engineering. My personal homepage is [here](http://www.ece.ubc.ca/~zjbthomas/).
 
-My favourite quote is from ~Harry Potter and the Order of the Phoenix~:
+My favourite quote is from *Harry Potter and the Order of the Phoenix*:
 > "Wit beyond measure is one's greatest treasure."
 
 As a welcoming message:
