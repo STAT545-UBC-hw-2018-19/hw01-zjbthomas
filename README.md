@@ -4,7 +4,10 @@
 
 **This is the repository of Junbin ZHANG.** Welcome!
 
-This repo contains a [README](README.md) file and a [R Markdown](hw01_instructions.md) file.
+This repo contains the following files:
+- This [README](README.md) file; 
+- A [markdown](hw01_instructions.md) file as description of Assignment 1; and
+- A [R markdown](hw01_gapminder.rmd) file to explore `gapminder`.
 
 ## Introduction
 
